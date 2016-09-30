@@ -1,0 +1,29 @@
+Vikranth
+
+Hi,
+ 
+We are introducing a new Assignment estimation process based on the learnings from the pilot phase and feedback received from tutors.
+ 
+The new process will give more flexibility to the tutors in terms of assessing the complexity level of a question and also an indicative figure of how much the quote will be for an assignment.
+Previous process did not have a category which estimated for the time needed for a question, but this process has a seperate category for questions that take more time in a particular difficulty level.
+ 
+Attached with this mail is a an excel sheet that contains a sample quote created for a hypothetical assignment. This should give a clear idea of the new estimation process.
+ 
+Details Of The New Process
+You need to enter the assignment number on the top and also name the excel file with the assignment number and your name. For example if the assignment number is java_09_04_01, then the filename should be <TutorName>_Estimation_java_
+09_04_01.xls. where <TutorName>will contain a tutors name. This will help us speed up the process and make it less error prone.
+You will have to update the sheet with the main question and sub question numbers/names in the respective columns and then grade them based on the complexity level.
+This time we have included a new category for each of the difficulty levels. This category is for questions, for example ones that are simple, but lengthy or time consuming. Then you can rate the question under Simple + Lenghty category.  Simlilarly we have Meduim Complex + Lengthy Category and Complex + Lenghty Category.
+We have fixed an indicative quote for each of the categories. Our quotes will be based on these fixed rates only in most of the cases. But at times for some assignments we might deviate based on specific cases.
+If the tutor is not able to decide on the complexity level for a particular question, then he can enter the quote he has in mind in the last column named Needs OG Team Review or leave the row blank and let Online Gurukul subject matter experts decide on the quote for a particular question.
+Tutors will only have to enter the digit 1 in the respective cell of the excel sheet and the rest will be auto computed by the formulas set in the excel sheet. If more rows need to be added, then the tutors can add them and extend the same formulaes to the new rows added.
+ 
+Advantages Of The New Process
+Tutors will get an indicative figure of the quote for an assignment.
+Tutors get more flexibility by he new categories added to judge the complexity of the question.
+ 
+Tutors will have to use this process in a fair and honest way. Since the final quotes for an assignment will be decided by our team, we will get an indication if a tutor is not using this process in a fair way.
+Please note that the tutors should not take this as a fixed or a confirmed way to arrive at a quote. The decision of the final quote will again rest in the hands on Online Gurukul.
+ 
+Thanks,
+Online Gurukul Team

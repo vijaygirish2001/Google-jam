@@ -1,0 +1,17 @@
+x1=2;               %Initial value of function x
+ta=input('Enter the starting value of the interval');
+tb=input('Enter the ending value of the interval');
+n=input('Enter the no of steps');
+h=(tb-ta)/n;    %Step size for calculation
+t=ta;
+for j=1:n       %Implementing Runga Kutta Method
+k1=h*f(t,x);
+k2=h*f(t+h/2,x+k1/2);
+k3=h*f(t+h/2,x+k2/2);
+k4=h*f(t+h,x+k3/2);
+x=x+1/6*(k1+2*k2+2*k3+k4);
+t=ta+j*h;
+end
+j
+t
+x

@@ -1,0 +1,32 @@
+clc
+clear all
+
+inp=fopen('inp1.txt','r');
+
+out=fopen('oup1','w');
+
+t=fscanf(inp,'%d',1);
+
+for k=1:t
+    n=fscanf(inp,'%d',1);
+    
+    s=zeros(1,n);
+    
+
+    for i=1:n
+        
+        
+            s(i)=fscanf(inp,'%f',1);
+
+        
+    end
+        
+    
+    s=sort(
+    
+    
+    
+    fprintf(out,'Case #%d: %d\n',k,y);
+end
+
+fclose('all')

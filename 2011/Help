@@ -1,0 +1,2 @@
+gcc -o run prac1.c
+./run
